@@ -1,0 +1,9 @@
+---
+title: "About me"
+---
+
+<center>
+# My name is Dante Gallardo
+</center>
+
+blah blah blah blah blah
