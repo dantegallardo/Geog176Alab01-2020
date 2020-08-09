@@ -9,6 +9,9 @@ navbar:
     - text: "GIS Work"
       icon: fa-rocket
       href: geog176a.html
+    - text: "CV"
+      icon: fa-globe
+      href: cv.html
   right:
     - icon: fa-github
       href: https://github.com/dantegallardo/Geog176Alab01-2020
