@@ -3,7 +3,10 @@ title: "About me"
 ---
 
 <center>
-# My name is Dante Gallardo
+# Hi! My name is Dante Gallardo
 </center>
 
-blah blah blah blah blah
+
+
+I am a fifth year student majoring in Physical Geography with an emphasis in Ocean Science. I made a switch from majoring in Aquatic Biology to my current major around the beginning of my second year at UCSB. Outside of school, I coach competitive womans gymnastics for kids in elementary to high school. I also compete in mens gymnastics for a collegiate club called Southern California United and have been competing for 16 years. When I moved out to Santa Barbara for college, I took a two year break from competitive gymnastics and did cheerleading for UCSB during my second and third year. In my free time, I like to hang out with my friends, read, or play video games.
+
