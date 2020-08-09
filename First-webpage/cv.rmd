@@ -2,13 +2,12 @@
 title: "Dante Gallardo"
 ---
 
-## Eduction
+## Education
 
-- College eduction: UCSB: 2016-2020
-
-
+- college eduction: UCSB: 2016-2020
 
 
 ## Experience
 
-- no background experience in coding
+- No background experience in coding
+
